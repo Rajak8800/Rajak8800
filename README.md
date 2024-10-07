@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajak8800
-- 👀 I’m interested in data analytics
-- 😄 Pronouns: Razza
+- 👀 I’m interested to do data analysis
+  
 
 
 <!---
