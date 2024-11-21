@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajak8800
-- 👀 I’m interested to do data analysis
+- 👀 "Aspiring Data Analyst | Proficient in SQL, Excel, Power BI, Python (Pandas, NumPy) | Data-Driven Problem Solver | Passionate About Insights & Automation"
   
 
 
